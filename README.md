@@ -1,2 +1,1 @@
-# TruEstate_Assignment
 A full-stack Sales Management Dashboard built as part of the TruEstate assignment. This application allows users to search, filter, sort, and analyze customer purchase data using an interactive frontend and a Node.js backend API
